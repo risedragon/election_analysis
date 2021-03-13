@@ -1,5 +1,10 @@
-Counties in the Election
--------------------------
-Arapahoe
-Denver
-Jefferson
+
+----------------------------
+
+Winner: Diana DeGette
+
+Winning Vote Count: 272892
+
+Winning Percentage: 73.81%
+
+-----------------------------
